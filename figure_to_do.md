@@ -1,6 +1,6 @@
 ## Figure 1:
 
-### Lentivirus versus IAV
+### VSVG-Lentivirus versus IAV-LV
 
 - [ ] Schematics
 - [ ] Plasmid info
@@ -9,16 +9,16 @@
 
 ### Transduction efficiencies of different cells
 
-- [ ] Lenti versus IAV in whole PCLS
+- [ ] VSV-G-LV versus IAV-LV in whole PCLS
 - [ ] Digest strategy
-- [ ] LV versus IAV in specific populations
+- [ ] VSV-G-LV versus IAV-LV in specific populations
 
 ## Figure 3:
 
-### Editing of prof of principle genes in cas9 pcls
+### Editing of proof of principle genes in Cas9 PCLS
 
-- [ ] Lenti versus IAV in whole PCLS
-- [ ] LV versus IAV in specific populations
+- [ ] VSV-G-LV versus IAV-LV in whole PCLS
+- [ ] VSV-G-LV versus IAV-LV in specific populations
 
 ## Figure 4:
 
@@ -27,7 +27,6 @@
 - [ ] Choice of genes
 - [ ] Cut genes
 - [ ] Flu titres
-
 
 ## Supp Fig 1:
 
